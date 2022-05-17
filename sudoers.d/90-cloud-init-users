@@ -1,0 +1,4 @@
+# Created by cloud-init v. 22.1-14-g2e17a0d6-0ubuntu1~20.04.3 on Sun, 15 May 2022 20:16:58 +0000
+
+# User rules for yakovlev
+yakovlev ALL=(ALL) NOPASSWD:ALL
